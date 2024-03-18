@@ -2,7 +2,7 @@
     "name": "cs.stellarwolf.settings.editor",
     "rootNamespace": "StellarWolf.Editor",
     "references": [
-        "ca.stellarwolf.settings"
+        "GUID:8eaaaac6137ad694588bb9cb76fcf171"
     ],
     "includePlatforms": [
         "Editor"
