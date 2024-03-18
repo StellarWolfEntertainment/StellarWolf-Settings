@@ -35,7 +35,7 @@ namespace StellarWolf
         /// <summary>
         /// Gets the settings attribute associated with the settings object.
         /// </summary>
-        protected internal static SettingsAttribute attribute { get { return s_Attribute ??= typeof ( T ).GetCustomAttribute<SettingsAttribute> ( true ); } }
+        public static SettingsAttribute attribute { get { return s_Attribute ??= typeof ( T ).GetCustomAttribute<SettingsAttribute> ( true ); } }
 
         #endregion
 
