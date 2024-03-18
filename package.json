@@ -1,0 +1,13 @@
+{
+	"name": "ca.stellarwolf.settings",
+	"version": "1.0.0",
+	"description": "A package for creating settings in Unity",
+	"displayName": "Stellar Wolf Settings",
+	"unity": "2020.1",
+	"license": "CC-BY-4.0",
+	"disclaimer": "This package is heavily based on the package by [Hextant](https://github.com/hextantstudios/com.hextantstudios.utilities) that serves the same purpose",
+	"author": {
+		"name": "Raistlin Wolfe",
+		"email": "stellarwolfentertainment@gmail.com"
+	}
+}
