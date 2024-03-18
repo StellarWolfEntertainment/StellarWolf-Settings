@@ -10,7 +10,7 @@ To install the Stellar Wolf Settings package in your unity project, follow these
 2. In the Unity Editor, go to `Window` > `Package Manager`.
 3. Click on the `+` button in the top-left corner of the Package Manager window.
 4. Select `Install package from git URL`.
-5. Paste `` into the text field.
+5. Paste `https://github.com/StellarWolfEntertainment/StellarWolf-Settings.git` into the text field.
 6. Click `Install`
 
 ## Usage
